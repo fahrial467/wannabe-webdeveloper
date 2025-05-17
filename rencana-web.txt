@@ -1,5 +1,6 @@
 - web portofolio
   * menggunakan tailwind dan javascript
 - membuat web engineering
+  * menggunakan html, css, dan javascript.
 - membuat web data base material
   * menambahkan bera m/kg pada raw material profil
