@@ -4,3 +4,4 @@
   * menggunakan html, css, dan javascript.
 - membuat web data base material
   * menambahkan bera m/kg pada raw material profil
+- pahami react
